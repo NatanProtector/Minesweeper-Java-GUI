@@ -17,7 +17,7 @@ javac -d out .\src\*.java
 ## To Run
 Once the project is compiled, run the game with the following command:
 ```
-java -cp out main
+java -cp out Main
 ```
 
 ## Features
