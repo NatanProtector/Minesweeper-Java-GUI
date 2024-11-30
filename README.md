@@ -1,5 +1,8 @@
 # MineSweeper - A Java Recreation of the Classic Game
 
+View on Youtube:
+https://www.youtube.com/watch?v=oaCKZojlVD8
+
 ## Description
 A game of snake using Java. The game features a fully functional GUI with customizable game speed, and sound.
 
